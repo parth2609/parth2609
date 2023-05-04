@@ -9,7 +9,7 @@
 - - ⚡ Fun fact: I love to do Googling everyday.
 
 
--![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&hide=contribs,prs)
+
 -![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&count_private=true)
 -![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true)
 -![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical)

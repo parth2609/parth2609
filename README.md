@@ -6,7 +6,8 @@
 - 💬 Ask me about Java or any tech realated stuff.
 - 📫 How to reach me: GMail- parthgarg.cr6@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I love to do Googling everyday.
+- - ⚡ Fun fact: I love to do Googling everyday.
+
 -[![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609)](https://github.com/parth2609/github-readme-stats)
 -![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&hide=contribs,prs)
 -![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&count_private=true)

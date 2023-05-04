@@ -12,4 +12,4 @@
 ![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical)
 
 
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth2609&size_weight=0.5&count_weight=0.5)](https://github.com/parth2609/github-readme-stats)

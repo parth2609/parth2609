@@ -12,4 +12,4 @@
 ![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parth2609&repo=github-readme-stats)](https://github.com/parth2609/github-readme-stats)
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10

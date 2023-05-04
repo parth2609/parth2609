@@ -12,4 +12,4 @@
 ![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth2609&size_weight=0.5&count_weight=0.5)](https://github.com/parth2609/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth2609&exclude_repo=github-readme-stats,parth2609.github.io)](https://github.com/parth2609/github-readme-stats)

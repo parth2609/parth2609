@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate on Web projects and YouTube.
 - 🤔 I’m looking for help with related to Java.
-- 💬 Ask me about Java or any tech realated stuff.
+- 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: GMail- parthgarg.cr6@gmail.com
                       Linkedin- https://www.linkedin.com/in/parth-garg-5467a5204/
 - 😄 Pronouns: He/His/Him

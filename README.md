@@ -1,4 +1,5 @@
 ### Hi there, I'm Parth Garg👋
+
 - 🔭 I’m currently working on Java Web Development.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate on Web projects and YouTube.
@@ -9,7 +10,7 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love to do Googling everyday.
  
-### **Languages and Tools:**  
+### **Languages and Tools** 
 
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -23,6 +24,7 @@
 <code><img height="38" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code><br>
 
 ### Github Profile Trophy
+
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=parth2609&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
 

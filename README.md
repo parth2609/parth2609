@@ -24,12 +24,12 @@
 
 ### Github Profile Trophy
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sparsh-99&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=parth2609&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
 
 <p align="center">
     <img
         height="180em"
-        src=https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical
+        src=https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical&hide_border=true
     />
     <img
         height="180em"
@@ -39,7 +39,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth2609&hide_border=true" height="180em" />
 </p>
-
-### Contribution Graph
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=parth2609&theme=xcode" alt="Contribution Graph" align="center" />

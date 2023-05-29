@@ -31,12 +31,10 @@
 <p align="center">
     <img
         height="180em"
-        src=https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical&hide_border=true
-    />
+        src="https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical&hide_border=true" />
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth2609&show_icons=true&hide_border=true&layout=compact&langs_count=8"
-    />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth2609&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth2609&hide_border=true" height="180em" />

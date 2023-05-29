@@ -13,3 +13,21 @@
 ![Parth Garg's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth2609&layout=compact&hide=makefile,html)](https://github.com/parth2609/github-readme-stats)
+
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=parth2609&show_icons=true&hide_border=true"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth2609&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+    />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth2609&hide_border=true" height="180em" />
+</p>
+
+### Contribution Graph
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=parth2609&theme=xcode" alt="Contribution Graph" align="center" />

@@ -15,11 +15,7 @@
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666041-81a3eb00-eb17-11ea-8142-a049c30b3083.png"></code>
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666227-ba908f80-eb18-11ea-9118-fdc1a845195b.png"></code>
-<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666238-ced48c80-eb18-11ea-8279-66d4fbc90cc3.png"></code>
-<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666250-e14ec600-eb18-11ea-81e4-59f2a65ff0aa.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="38" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code><br>
 
 ### Github Profile Trophy
 

@@ -7,6 +7,7 @@
 - 💬 Ask me about Java or any tech related stuff.
 - 📫 How to reach me: GMail- parthgarg.cr6@gmail.com
                       Linkedin- https://www.linkedin.com/in/parth-garg-5467a5204/
+                      Linktree- https://linktr.ee/Parth_Garg
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love to do Googling everyday.
  
